@@ -1,6 +1,6 @@
 {
-    "name": "saint-bot",
-    "version": "1.0.0",
+    "name": "aesthetic",
+    "version": "1.0.0-beta",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -40,5 +40,5 @@
         "@modules": "./modules",
         "@interactions": "./interactions"
     },
-    "setup": true
+    "setup": false
 }
