@@ -1,0 +1,18 @@
+locale: en-gb
+
+method: sqlite
+host:
+database:
+
+updates:
+  check: false
+  repository: https://api.github.com/repos/lush-love/aesthetic
+
+embed:
+  color:
+    default: WHITE
+    warn: ORANGE
+    error: RED
+  footer:
+    text: Aesthetic
+    icon: https://i.imgur.com/PQY5oE6.png
