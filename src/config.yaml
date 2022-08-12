@@ -10,9 +10,9 @@ updates:
 
 embed:
   color:
-    default: WHITE
-    warn: ORANGE
-    error: RED
+    default: 0xFFFFFF
+    warn: 0xE67E22
+    error: 0xE74C3C
   footer:
     text: Aesthetic
     icon: https://i.imgur.com/PQY5oE6.png

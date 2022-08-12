@@ -1,6 +1,6 @@
 <h1 align="center">Aesthetic by Lush Love</h1>
 
-<p>Aesthetic is a general purpose Discord.js v13 bot.</p>
+<p>Aesthetic is a general purpose Discord.js v14 bot, written in typescript.</p>
 
 <p>
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/lush-love/aesthetic/CodeQL?label=CodeQL&logo=github&style=for-the-badge">
