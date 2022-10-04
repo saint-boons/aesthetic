@@ -22,7 +22,7 @@
         "mysql2": "^2.3.3",
         "pino": "^8.5.0",
         "pino-pretty": "^9.0.0",
-        "sequelize": "^6.21.6",
+        "sequelize": "^6.24.0",
         "sqlite3": "^5.0.9",
         "tsconfig-paths": "^4.0.0",
         "utf-8-validate": "^5.0.9",
