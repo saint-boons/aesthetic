@@ -547,7 +547,8 @@ env-paths@^2.2.0:
 
 erlpack@discord/erlpack:
   version "0.1.3"
-  resolved "https://codeload.github.com/discord/erlpack/tar.gz/3b793a333dd3f6a140b9168ea91e9fa9660753ce"
+  uid cbe76be04c2210fc9cb6ff95910f0937c1011d04
+  resolved "https://codeload.github.com/discord/erlpack/tar.gz/cbe76be04c2210fc9cb6ff95910f0937c1011d04"
   dependencies:
     bindings "^1.5.0"
     nan "^2.15.0"
