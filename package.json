@@ -23,7 +23,7 @@
         "pino": "^8.5.0",
         "pino-pretty": "^9.0.0",
         "sequelize": "^6.21.6",
-        "sqlite3": "^5.0.9",
+        "sqlite3": "^5.1.4",
         "tsconfig-paths": "^4.0.0",
         "utf-8-validate": "^5.0.9",
         "zlib-sync": "^0.1.7"
