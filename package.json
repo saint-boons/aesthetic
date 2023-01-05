@@ -25,7 +25,7 @@
         "sequelize": "^6.21.6",
         "sqlite3": "^5.0.9",
         "tsconfig-paths": "^4.0.0",
-        "utf-8-validate": "^5.0.9",
+        "utf-8-validate": "^6.0.0",
         "zlib-sync": "^0.1.7"
     },
     "scripts": {
