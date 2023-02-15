@@ -18,7 +18,7 @@
         "dotenv": "^16.0.2",
         "erlpack": "discord/erlpack",
         "js-yaml": "^4.1.0",
-        "mariadb": "^3.0.0",
+        "mariadb": "^3.1.0",
         "mysql2": "^2.3.3",
         "pino": "^8.5.0",
         "pino-pretty": "^9.0.0",
