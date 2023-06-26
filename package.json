@@ -19,7 +19,7 @@
         "erlpack": "discord/erlpack",
         "js-yaml": "^4.1.0",
         "mariadb": "^3.0.0",
-        "mysql2": "^2.3.3",
+        "mysql2": "^3.4.2",
         "pino": "^8.5.0",
         "pino-pretty": "^9.0.0",
         "sequelize": "^6.21.6",
